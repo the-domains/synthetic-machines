@@ -1,0 +1,14 @@
+layout_spectrum: 0.414373776409775
+typography_spectrum: 0.28225959558039904
+color:
+  brandStrength: 0.2091642061714083
+  lightness: 0.09221075638197362
+  saturation: 0.5833345677237958
+  rhythmicContrast: 0.43366625532507896
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: synthetic machines
